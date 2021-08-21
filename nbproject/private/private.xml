@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/presentacion/FrmInfoSoporte.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/entidades/Sucursal.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/logica/EmpleadoBL.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/logica/SucursalBL.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/datos/Conexion.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/presentacion/FrmListarSuc.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/datos/SucursalDAL.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/presentacion/FrmRegistrarSuc.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/presentacion/FrmModificarSuc.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/presentacion/FrmPrincipal.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/datos/EmpleadoDAL.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/presentacion/FrmAsignarEmpl.java</file>
+            <file>file:/home/tecncr/NetBeans/eurekabank-crud1/src/entidades/Empleado.java</file>
+        </group>
+    </open-files>
+</project-private>
